@@ -26,7 +26,7 @@ When the full plugin is released, **20% of the profits will be donated** to:
 
 ## About
 
-Hello, I am Deloyd Elze, a musician based in Los Angeles, CA, but I grew up in Jacksonville, FL. I grew up in a world where tinkering with things that you don’t understand, but knowing what you want, is a way of life. No one asks a redneck if they know how to fix a truck; they just somehow know how to do it. Whether the information is rote, read, or just sheer luck is beside the point. I spent most of my time in my youth fishing and playing music. If I hadn’t found myself pursuing music, I probably would have gone on to be a zoologist or marine biologist. Combine these button combos and you get the creation of “Trout Infinity”.
+Hello, I am Deloyd Elze, a musician based in Los Angeles, CA, but I grew up in Jacksonville, FL. I spent most of my time in my youth fishing and playing music. If I hadn’t found myself pursuing music, I probably would have gone on to be a zoologist or marine biologist. Combine these button combos and you get the creation of “Trout Infinity”.
 
 The idea was spawned when I saw a friend of mine put a series of pitch shifters into his pedal chain to go up +12 or +24 cents and then back down to his concert pitch, keeping all of these strange and beautiful artifacts. At the same time, another friend had purchased a reverb pedal that was based on a BBD-style delay. Then the lightbulb went off in my head: what would it sound like if you combined the two, but you could route the pitch shifters in series or parallel?
 
