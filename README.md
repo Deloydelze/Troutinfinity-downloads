@@ -18,7 +18,12 @@ The Betta is free and **never expires**. Use it in anything you make, including 
 
 ## Giving back
 
-When the full plugin is released, **20% of the profits will be donated to North Florida Wildlife Conservation and [Equality Florida](https://www.eqfl.org/)**.
+When the full plugin is released, **20% of the profits will be donated** to these organisations protecting Florida's wildlife and the people who live there:
+
+- [North Florida Wildlife Center](https://www.northfloridawildlife.org)
+- [Alligator Farm Foundation](https://www.alligatorfarm.com/conservation-research/alligator-farm-foundation/) (St. Augustine Alligator Farm)
+- [Equality Florida](https://eqfl.org)
+- [Human Rights Campaign, Florida](https://www.hrc.org/get-involved/florida)
 
 ## About
 
@@ -26,13 +31,20 @@ Hello, I am Deloyd Elze, a musician based in Los Angeles, CA, but I grew up in J
 
 The idea was spawned when I saw a friend of mine put a series of pitch shifters into his pedal chain to go up +12 or +24 cents and then back down to his concert pitch, keeping all of these strange and beautiful artifacts. At the same time, another friend had purchased a reverb pedal based on a BBD-style delay. Then the lightbulb went off in my head: what would it sound like if you combined the two, but you could route the pitch shifters in series or parallel?
 
-Thank you for finding your way here, and I can't wait to hear what y'all make with this weird little plugin. If you find yourself in possession of the "Betta", my promise to you is that it will never expire and you can share it with your friends as much as you like. Everyone gets a seat at the table. That being said, when the plugin does get released into the mainstream, 20% of the profits will be donated to North Florida Wildlife Conservation and Equality FL. I believe it is our duty to protect these amazing and beautiful places, and everyone should have the unalienable right to enjoy and experience them.
+Thank you for finding your way here, and I can't wait to hear what y'all make with this weird little plugin. If you find yourself in possession of the "Betta", my promise to you is that it will never expire and you can share it with your friends as much as you like. Everyone gets a seat at the table. That being said, when the plugin does get released into the mainstream, 20% of the profits will be donated to the wildlife and equality organisations listed above. I believe it is our duty to protect these amazing and beautiful places, and everyone should have the unalienable right to enjoy and experience them.
 
 Happy fishing.
 
 Hope this finds you well fed and loved.
 
 Dee
+
+### Find me
+
+- **Music:** [Spotify](https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo)
+- **Sample pack:** [Redfisher on Splice](https://splice.com/sounds/packs/nu-wav/deloyd-elze-redfisher/samples)
+- **Instagram:** [@deloyd.elze](https://www.instagram.com/deloyd.elze)
+- **Website:** [deloydelze.com](https://deloydelze.com)
 
 ## Feedback
 
