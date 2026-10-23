@@ -8,9 +8,10 @@ Get the latest version from **[Releases](../../releases/latest)**:
 
 - **Mac:** `Trout Infinity 0.9.0 Betta (Mac).zip` (Apple Silicon and Intel, macOS 10.13 or later)
 - **Windows:** `Trout Infinity 0.9.0 Betta (Windows).zip` (Windows 10 or 11, 64-bit)
-- **Manual:** `Trout Infinity Manual.pdf`, to read before you download
+- **Manual:** `Trout Infinity Manual.pdf`
+- **About:** `About Deloyd Elze.pdf`, my story plus links to my music, socials and the charities
 
-Each zip holds the installer (Mac) or plug-in and app (Windows), the manual, the licence, and an **About Deloyd Elze** folder with my bio and links. Install steps are in section 2 of the manual. These beta builds aren't signed by Apple yet, so on a Mac you'll need to click **Open Anyway** under **System Settings → Privacy & Security** the first time.
+Each zip holds the installer (Mac) or plug-in and app (Windows), the manual, the About PDF and the licence. Install steps are at the top of the manual. These beta builds aren't signed by Apple yet, so on a Mac you'll need to click **Open Anyway** under **System Settings → Privacy & Security** the first time.
 
 ## Free forever, and free to share
 
@@ -27,11 +28,13 @@ When the full plugin is released, **20% of the profits will be donated** to thes
 
 ## About
 
-Hello, I am Deloyd Elze, a musician based in Los Angeles, CA, but I grew up in Jacksonville, FL. I grew up in a world where tinkering with things you don't understand, but knowing what you want, is a way of life. No one asks a redneck if they know how to fix a truck; they just somehow know how to do it. Whether the information is rote, read, or just sheer luck is beside the point. I spent most of my time in my youth fishing and playing music. If I hadn't found myself pursuing music, I probably would have gone on to be a zoologist or marine biologist. Combine these button combos and you get the creation of "Trout Infinity".
+Hello, I am Deloyd Elze, a musician based in Los Angeles, CA but grew up in Jacksonville, FL. I grew up in a world where tinkering with things that you don’t understand but know what you want is a way of life. No one asks a red-neck if they know how to fix a truck they just somehow know how to do it. Wether the information is rote, read, or just sheer luck is beside the point. I spent most of the my time in my youth fishing and playing music, if I hadn’t found myself pursuing music I probably would have gone on to be a zoologist or marine biologist. Combine these button combos and you get the creation of “Trout Infinity”.
 
-The idea was spawned when I saw a friend of mine put a series of pitch shifters into his pedal chain to go up +12 or +24 cents and then back down to his concert pitch, keeping all of these strange and beautiful artifacts. At the same time, another friend had purchased a reverb pedal based on a BBD-style delay. Then the lightbulb went off in my head: what would it sound like if you combined the two, but you could route the pitch shifters in series or parallel?
+The idea was spawned when I saw a friend of mine put a series of pitch shifter into his pedal chain to go up +12 or +24 cents to go back down to his concert pitch. Keeping all of these strange and beautiful artifacts. At the same time another friend had purchased a reverb pedal that was based on a BBD style delay. Then the lightbulb went off in my head; what would it sound like if you combined the two but you could route the pitch shifters in series or parallel.
 
-Thank you for finding your way here, and I can't wait to hear what y'all make with this weird little plugin. If you find yourself in possession of the "Betta", my promise to you is that it will never expire and you can share it with your friends as much as you like. Everyone gets a seat at the table. That being said, when the plugin does get released into the mainstream, 20% of the profits will be donated to the wildlife and equality organisations listed above. I believe it is our duty to protect these amazing and beautiful places, and everyone should have the unalienable right to enjoy and experience them.
+Thank you for finding you way here and can’t wait to hear what y’all make with this weird little plugin. If you found yourself in possession of the “Betta” my promise to you is that it will never expire and you can share it with your friends as much as you like. Everyone gets a seat at the table. That being said, when the plugin does get released into the main stream, 20% of the profits will be donated to North Florida Wildlife Conservation and Equality FL. I believe it is our duty to protect these amazing and beautiful places and everyone should have the unalienable right to enjoy and experience them.
+
+If your interested, there are links to my own music and a sample pack I released on splice inside the package of the plugin.
 
 Happy fishing.
 
