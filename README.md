@@ -19,12 +19,10 @@ The Betta is free and **never expires**. Use it in anything you make, including 
 
 ## Giving back
 
-When the full plugin is released, **20% of the profits will be donated** to these organisations protecting Florida's wildlife and the people who live there:
+When the full plugin is released, **20% of the profits will be donated** to:
 
 - [North Florida Wildlife Center](https://www.northfloridawildlife.org)
-- [Alligator Farm Foundation](https://www.alligatorfarm.com/conservation-research/alligator-farm-foundation/) (St. Augustine Alligator Farm)
 - [Equality Florida](https://eqfl.org)
-- [Human Rights Campaign, Florida](https://www.hrc.org/get-involved/florida)
 
 ## About
 
