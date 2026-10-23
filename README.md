@@ -6,11 +6,11 @@ A pitch-shifting delay with six pitch voices, three echo lines, and a living tro
 
 Get the latest version from **[Releases](../../releases/latest)**:
 
-- **Mac:** `Trout Infinity 0.9.0 Betta.pkg` (Apple Silicon and Intel, macOS 10.13 or later)
+- **Mac:** `Trout Infinity 0.9.0 Betta (Mac).zip` (Apple Silicon and Intel, macOS 10.13 or later)
 - **Windows:** `Trout Infinity 0.9.0 Betta (Windows).zip` (Windows 10 or 11, 64-bit)
-- **Manual:** `Trout Infinity Manual.pdf` (also inside the Windows zip)
+- **Manual:** `Trout Infinity Manual.pdf`, to read before you download
 
-Install steps for both systems are in section 1 of the manual. These beta builds aren't signed by Apple yet, so on a Mac you'll need to click **Open Anyway** under **System Settings → Privacy & Security** the first time.
+Each zip holds the installer (Mac) or plug-in and app (Windows), the manual, the licence, and an **About Deloyd Elze** folder with my bio and links. Install steps are in section 2 of the manual. These beta builds aren't signed by Apple yet, so on a Mac you'll need to click **Open Anyway** under **System Settings → Privacy & Security** the first time.
 
 ## Free forever, and free to share
 
